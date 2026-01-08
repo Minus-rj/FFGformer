@@ -1,6 +1,8 @@
 # FFGformer
 
 Modules for image quality analysis based on [UIQM](https://github.com/xahidbuffon/FUnIE-GAN/blob/master/Evaluation/uqim_utils.py), [UCIQE](https://github.com/Duanlab123/MetaUE/blob/main/utils/evalution.py),  **SSIM**, and **PSNR** ([see Evaluation]([/Evaluation/](https://github.com/chaofengc/IQA-PyTorch)))
+从Bayesian retinex underwater image enhancement论文找到的 [UIQM](https://github.com/tkrahn108/UIQM) [UCIQE](https://github.com/paulwong16/UCIQE)
+
 
 related work
 Other methods in https://github.com/YuZhao1999/UIE
@@ -9,7 +11,7 @@ Other methods in https://github.com/YuZhao1999/UIE
 
 Dataset:[EUVP](https://www.kaggle.com/datasets/pamuduranasinghe/euvp-dataset),[UIEB](https://li-chongyi.github.io/proj_benchmark.html),[UFO-120](https://www.kaggle.com/datasets/lmslms/ufo-120),[HICRD](https://github.com/JunlinHan/CWR),[TRUBID](http://amandaduarte.com.br/turbid/)resplited by [DGD-cGAN](https://github.com/kskin/WaterGAN?tab=readme-ov-file) 
 
-Comparsion Methods:
+Comparison Methods:
 1)Pixel-adjustment based method:[WWPF](https://github.com/Li-Chongyi/WWPF_code),[WFAC](https://www.researchgate.net/publication/386508762_2024WFAC),
 
 2)Imaging model based method:[UNTV](https://github.com/Hou-Guojia/UNTV),[ISCP](https://github.com/Hou-Guojia/ICSP)
