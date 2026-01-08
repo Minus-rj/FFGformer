@@ -20,7 +20,7 @@ Comparison Methods:
 
 4)GAN based method:[UGAN](https://github.com/IRVLab/UGAN),[FUnIE-GAN](https://github.com/xahidbuffon/FUnIE-GAN),[DGD-cGAN](https://github.com/SalPGS/DGD-cGAN) 
 
-5)Transformer based method:[Uformer](https://github.com/ZhendongWang6/Uformer?tab=readme-ov-file),[U-Trans](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement),[SwimIR](https://github.com/JingyunLiang/SwinIR),[Spectroformer](https://github.com/Mdraqibkhan/Spectroformer),[PhaseFormer](https://github.com/Mdraqibkhan/Phaseformer)
+5)Transformer based method:[Uformer](https://github.com/ZhendongWang6/Uformer?tab=readme-ov-file),[SwimIR](https://github.com/JingyunLiang/SwinIR),[U-Trans](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement),[Spectroformer](https://github.com/Mdraqibkhan/Spectroformer),[PhaseFormer](https://github.com/Mdraqibkhan/Phaseformer)
 
 
 
