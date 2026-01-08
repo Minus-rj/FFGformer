@@ -9,9 +9,13 @@ Other methods in https://github.com/YuZhao1999/UIE
 
 Comparsion Methods
 Pixel-adjustment based method:[WWPF](https://github.com/Li-Chongyi/WWPF_code)),[WFAC](https://www.researchgate.net/publication/386508762_2024WFAC),
-Imaging model based method:[RDCP](),[IBLA]()
-CNN based method:[PUIE-Net](),[Water-Net](https://github.com/Li-Chongyi/Water-Net_Code),[UIR-PolyKernel](https://github.com/CXH-Research/UIR-PolyKernel)
+
+Imaging model based method:[UNTV](https://github.com/Hou-Guojia/UNTV),[ISCP](https://github.com/Hou-Guojia/ICSP)
+
+CNN based method:[PUIE-Net](https://github.com/zhenqifu/PUIE-Net),[Water-Net](https://github.com/Li-Chongyi/Water-Net_Code),[UIR-PolyKernel](https://github.com/CXH-Research/UIR-PolyKernel)
+
 GAN based method:[UGAN](https://github.com/IRVLab/UGAN),[FUnIE-GAN](https://github.com/xahidbuffon/FUnIE-GAN),[DGD-cGAN](https://github.com/SalPGS/DGD-cGAN) 
+
 Transformer based method:[Uformer](https://github.com/ZhendongWang6/Uformer?tab=readme-ov-file),[U-Trans](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement),[SwimIR](https://github.com/JingyunLiang/SwinIR),[Spectroformer](https://github.com/Mdraqibkhan/Spectroformer),[PhaseFormer](https://github.com/Mdraqibkhan/Phaseformer)
 
 
