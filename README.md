@@ -10,6 +10,7 @@ Other methods in https://github.com/YuZhao1999/UIE
 2)CNN-based Methods:[Water-Net](https://github.com/Li-Chongyi/Water-Net_Code)
 
 Dataset:[EUVP](https://www.kaggle.com/datasets/pamuduranasinghe/euvp-dataset),[UIEB](https://li-chongyi.github.io/proj_benchmark.html),[UFO-120](https://www.kaggle.com/datasets/lmslms/ufo-120),[HICRD](https://github.com/JunlinHan/CWR),[TRUBID](http://amandaduarte.com.br/turbid/)resplited by [DGD-cGAN](https://github.com/kskin/WaterGAN?tab=readme-ov-file) 
+https://github.com/fansuregrin/RAUNE-Net
 
 Comparison Methods:
 1)Pixel-adjustment based method:[WWPF](https://github.com/Li-Chongyi/WWPF_code),[WFAC](https://www.researchgate.net/publication/386508762_2024WFAC),
