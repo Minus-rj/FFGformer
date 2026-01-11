@@ -20,7 +20,7 @@ Comparison Methods:
 
 3)CNN based method:[PUIE-Net](https://github.com/zhenqifu/PUIE-Net),[Water-Net](https://github.com/Li-Chongyi/Water-Net_Code),[UIR-PolyKernel](https://github.com/CXH-Research/UIR-PolyKernel)
 
-4)GAN based method:[UGAN](https://github.com/IRVLab/UGAN),[FUnIE-GAN](https://github.com/xahidbuffon/FUnIE-GAN),[DGD-cGAN](https://github.com/SalPGS/DGD-cGAN) 
+4)GAN based method:[UGAN](https://github.com/IRVLab/UGAN),[FUnIE-GAN](https://github.com/xahidbuffon/FUnIE-GAN),[DGD-cGAN](https://github.com/SalPGS/DGD-cGAN) PUGAN：https://github.com/rmcong/PUGAN_TIP2023?tab=readme-ov-file
 
 5)Transformer based method:[Uformer](https://github.com/ZhendongWang6/Uformer?tab=readme-ov-file),[SwimIR](https://github.com/JingyunLiang/SwinIR),[U-Trans](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement),[Spectroformer](https://github.com/Mdraqibkhan/Spectroformer),[PhaseFormer](https://github.com/Mdraqibkhan/Phaseformer)
 
