@@ -9,7 +9,7 @@ Other methods in https://github.com/YuZhao1999/UIE
 1)GAN-based Methods:[FGAN](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-/tree/master), [DGD-cGAN](https://github.com/SalPGS/DGD-cGAN) [CycleGAN](https://github.com/kskin/WaterGAN?tab=readme-ov-file) 
 2)CNN-based Methods:[Water-Net](https://github.com/Li-Chongyi/Water-Net_Code)
 
-Dataset:[EUVP](https://www.kaggle.com/datasets/pamuduranasinghe/euvp-dataset),[UIEB](https://li-chongyi.github.io/proj_benchmark.html),[UFO-120](https://www.kaggle.com/datasets/lmslms/ufo-120),[HICRD](https://github.com/JunlinHan/CWR),[TRUBID](http://amandaduarte.com.br/turbid/)resplited by [DGD-cGAN]((https://github.com/SalPGS/DGD-cGAN) 
+Dataset:[EUVP](https://www.kaggle.com/datasets/pamuduranasinghe/euvp-dataset),[UIEB](https://li-chongyi.github.io/proj_benchmark.html),[UFO-120](https://www.kaggle.com/datasets/lmslms/ufo-120),[HICRD](https://github.com/JunlinHan/CWR),[TRUBID](http://amandaduarte.com.br/turbid/)resplited by [DGD-cGAN](https://github.com/SalPGS/DGD-cGAN) 
 https://github.com/fansuregrin/RAUNE-Net
 https://github.com/deng-ai-lab/SFHformer/tree/main/dataset_spilt/LSUI
 
@@ -22,7 +22,7 @@ Comparison Methods:
 
 4)GAN based method:[DGD-cGAN](https://github.com/SalPGS/DGD-cGAN) [PUGAN](https://github.com/rmcong/PUGAN_TIP2023?tab=readme-ov-file)
 
-5)Transformer based method:[URSCT-SESR]([https://github.com/ZhendongWang6/Uformer?tab=readme-ov-file](https://github.com/TingdiRen/URSCT-SESR)),[UVZ]([https://github.com/JingyunLiang/SwinIR](https://github.com/WindySprint/UVZ)),[PhaseFormer](https://github.com/Mdraqibkhan/Phaseformer)
+5)Transformer based method:[URSCT-SESR](https://github.com/TingdiRen/URSCT-SESR),[UVZ](https://github.com/WindySprint/UVZ),[PhaseFormer](https://github.com/Mdraqibkhan/Phaseformer)
 
 Application Experients
 1)salient object detection[U-2-Net](https://github.com/xuebinqin/U-2-Net),metric[Saliency-Evaluation-Toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox)
