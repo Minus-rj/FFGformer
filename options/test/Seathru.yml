@@ -1,0 +1,40 @@
+### must be same as 
+
+name: phaseformer_model
+suffix: ~  # add suffix to saved images
+model: video_base4_m
+distortion: sr
+scale: 1
+crop_border: ~  # crop border when evaluation. If None(~), crop the scale pixels
+gpu_ids: [0]
+
+datasets:
+  test:  # the 1st test dataset
+    name: REDS4
+    mode: video_samesize_lol
+    dataroot_GT: G:\UIE\dataset\Seathru_display
+    dataroot_LQ: G:\UIE\dataset\Seathru_display
+    train_size: [256, 256]
+    cache_data: true
+#    N_frames: 5
+#    padding: new_info
+
+#### network structures
+network_G:
+  which_model_G: low_light_transformer
+#  nf: 64
+#  nframes: 5      # must be same as N_frames in dataset.
+#  groups: 8
+#  front_RBs: 1
+#  back_RBs: 1
+#  predeblur: true     # default false
+#  HR_in: true
+#  w_TSA: true
+
+#### path
+path:
+  root: ./
+  save_folder: ./results/Seathru_1
+  pretrain_model_G: G:\UIE\comparsion\FFGformer\experiments\HICRD_model_Fourier_FcaNet\models\134_G.pth
+#  pretrain_model_G: G:/SNR-Aware-Low-Light-Enhance\experiments\UIEB_model_Fourier_FcaNet_v1\models\932_G.pth
+  strict_load: true
