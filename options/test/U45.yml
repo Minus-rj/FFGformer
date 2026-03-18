@@ -20,13 +20,11 @@ datasets:
 
 #### network structures
 network_G:
-  which_model_G: low_light_transformer
+  which_model_G: FFGformer
 
 
 #### path
 path:
   root: ./
   save_folder: ./results/U45_1
-#  pretrain_model_G: G:\UIE\comparsion\FFGformer\experiments\UIEB_model_Fourier_FcaNet_v1_24.1457\models\936_G.pth
-#  pretrain_model_G: G:/SNR-Aware-Low-Light-Enhance/experiments/UFO-120_model_Fourier_FcaNet_29.508/models/1472_G.pth
-  pretrain_model_G: G:\SNR-Aware-Low-Light-Enhance\experiments\UIEB_model_Fourier_FcaNet_v1\models\932_G.pth
+  pretrain_model_G: UIEB.pth
