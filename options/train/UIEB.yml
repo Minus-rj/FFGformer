@@ -42,15 +42,7 @@ datasets:
 
 #### network structures
 network_G:
-  which_model_G: low_light_transformer
-#  nf: 64
-#  nframes: 5      # must be same as N_frames in dataset.
-#  groups: 8
-#  front_RBs: 1
-#  back_RBs: 1
-#  predeblur: true     # default false
-#  HR_in: true       # true if size(input) == size(HR)
-#  w_TSA: true
+  which_model_G: FFGformer
 
 #### path
 path:
@@ -64,11 +56,10 @@ train:
   lr_scheme: MultiStepLR
   beta1: 0.9
   beta2: 0.99
-  niter: 600000
+  niter: 21000
   ft_tsa_only: 0
   warmup_iter: -1  # -1: no warm up
-  lr_steps: [50000, 100000, 200000, 300000]
-  lr_gamma: 0.5
+  lr_steps: [3000, 5000, 9000, 15000]
   eta_min: !!float 1e-7
 
   pixel_criterion: cb
@@ -80,4 +71,4 @@ train:
 #### logger
 logger:
   print_freq: 100
-  save_checkpoint_freq: !!float 5000
+  save_checkpoint_freq: !!float 1000
