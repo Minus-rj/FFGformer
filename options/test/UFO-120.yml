@@ -34,5 +34,5 @@ network_G:
 #### path
 path:
   root: ./
-  pretrain_model_G: G:/SNR-Aware-Low-Light-Enhance/experiments/UFO-120_model_Fourier_FcaNet/models/1472_G.pth
+  pretrain_model_G: UFO-120.pth
   strict_load: true
