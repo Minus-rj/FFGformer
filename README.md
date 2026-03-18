@@ -30,14 +30,15 @@ salient object detection[U-2-Net](https://github.com/xuebinqin/U-2-Net),metric[S
 
 ## Running the Evaluation
 
-To evaluate the model on different datasets, you should download our [pretrained model](https://drive.google.com/drive/folders/13yOAB7wB1-W3ialY4MVZXS_SbwNAAY4A?usp=drive_link) and write the location of checkpoint in ``pretrain_model_G" of options/test/dataset_name.yml.
-'''
+To evaluate the model on different datasets, you should download our [pretrained model](https://drive.google.com/drive/folders/13yOAB7wB1-W3ialY4MVZXS_SbwNAAY4A?usp=drive_link) and write the location of checkpoint in "pretrain_model_G" of options/test/dataset_name.yml.
+
+```
 python test.py -opt ./options/test/TURBID.yml
-'''
+```
 ## Running the training
-'''
+```
 python train.py -opt ./options/test/TURBID.yml
-'''
+```
 
 
 
