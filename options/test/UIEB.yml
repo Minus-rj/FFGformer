@@ -34,4 +34,4 @@ network_G:
 #### path
 path:
   root: ./
-  pretrain_model_G: G:\SNR-Aware-Low-Light-Enhance\experiments\UIEB_model_Fourier_FcaNet_v1\models\932_G.pth
+  pretrain_model_G: UIEB.pth
