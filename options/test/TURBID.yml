@@ -25,6 +25,6 @@ network_G:
 #### path
 path:
   root: ./
-  save_folder: ./result/TURBID
+  save_folder: ./results/TURBID
   pretrain_model_G: TURBID.pth
   strict_load: true
