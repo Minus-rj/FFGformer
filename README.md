@@ -4,9 +4,9 @@ Evaluation metrics
 
 ## Dataset
 
-[UIEB](https://li-chongyi.github.io/proj_benchmark.html)resplited by [URanker](https://github.com/RQ-Wu/UnderwaterRanker?tab=readme-ov-file#underwater-ranker-learn-which-is-better-and-how-to-be-better-aaai-2023-oral-presentation),[TRUBID](http://amandaduarte.com.br/turbid/)resplited by [DGD-cGAN](https://github.com/SalPGS/DGD-cGAN),[U45](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-)
+[UIEB](https://li-chongyi.github.io/proj_benchmark.html)resplited by [URanker](https://github.com/RQ-Wu/UnderwaterRanker?tab=readme-ov-file#underwater-ranker-learn-which-is-better-and-how-to-be-better-aaai-2023-oral-presentation),[TURBID](http://amandaduarte.com.br/turbid/)resplited by [DGD-cGAN](https://github.com/SalPGS/DGD-cGAN),
 
-[UFO-120](https://www.kaggle.com/datasets/lmslms/ufo-120),[HICRD](https://github.com/JunlinHan/CWR), [Seathru](https://www.kaggle.com/datasets/colorlabeilat/seathru-dataset)
+[UFO-120](https://www.kaggle.com/datasets/lmslms/ufo-120),[Seathru](https://www.kaggle.com/datasets/colorlabeilat/seathru-dataset),[U45](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-)
 
 ## Comparison Methods
 
